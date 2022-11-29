@@ -13,7 +13,7 @@ These bindings have been tested to cross-compile and run successfully on Linux, 
 ## Usage
 
 ```
-$ go get github.com/lithdew/quickjs
+$ go get github.com/syumai/quickjs
 ```
 
 ## Guidelines
@@ -35,7 +35,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	"github.com/lithdew/quickjs"
+	"github.com/syumai/quickjs"
 	"strings"
 )
 
